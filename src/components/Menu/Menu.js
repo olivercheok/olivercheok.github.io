@@ -6,6 +6,8 @@ import { FaHome } from "react-icons/fa/";
 import { FaSearch } from "react-icons/fa/";
 import { FaEnvelope } from "react-icons/fa/";
 import { FaTag } from "react-icons/fa/";
+import { FaAddressBook } from "react-icons/fa/";
+
 
 import Item from "./Item";
 import Expand from "./Expand";
@@ -26,8 +28,10 @@ class Menu extends React.Component {
       { to: "/", label: "Home", icon: FaHome },
       { to: "/category/", label: "Categories", icon: FaTag },
       // { to: "/search/", label: "Search", icon: FaSearch },
-      ...pages,
-      { to: "/contact/", label: "Contact", icon: FaEnvelope }
+      { to: "/about/", label: "About", icon: FaAddressBook },
+      // ...pages,
+      // { <a : "mailto:olivercheok@gmail.com"</a>, label: "Contact", icon: FaEnvelope },
+      // { to: "https://www.facebook.com/olivercheok", label: "Facebook", icon: FaEnvelope }
     ];
 
     this.renderedItems = []; // will contain references to rendered DOM elements of menu
