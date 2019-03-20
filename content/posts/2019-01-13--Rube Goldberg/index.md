@@ -3,6 +3,7 @@ title: Rube Goldberg
 category: "Project"
 cover: cover.jpg
 author: oliver cheok
+summary: Rube Goldberg is a game that Users have to create different contraptions to get the ball into the goal position using gravity and physics. Made using Unity3D and SteamVR (Compatible with both Oculus Rift and HTC Vive)
 ---
 
 <!-- [Story of the process](#story-of-the-process)  

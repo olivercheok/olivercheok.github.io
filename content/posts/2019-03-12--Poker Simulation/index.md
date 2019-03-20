@@ -3,6 +3,7 @@ title: Poker Simulation
 category: "Project"
 cover: cover.jpg
 author: oliver cheok
+summary: A game on emotions!
 ---
 
 #Under development

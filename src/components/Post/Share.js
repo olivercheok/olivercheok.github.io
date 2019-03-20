@@ -21,7 +21,7 @@ const PostShare = props => {
     post: {
       fields: { slug },
       frontmatter: { title },
-      excerpt
+      summary
     },
     theme
   } = props;
@@ -58,7 +58,7 @@ const PostShare = props => {
           </GooglePlusShareButton>
           <FacebookShareButton
             url={url}
-            quote={`${title} - ${excerpt}`}
+            quote={`${title} - ${summary}`}
             additionalProps={{
               "aria-label": "Facebook share"
             }}
@@ -71,7 +71,7 @@ const PostShare = props => {
           <LinkedinShareButton
             url={url}
             title={title}            
-            description={excerpt}
+            description={summary}
             additionalProps={{
               "aria-label": "LinkedIn share"
             }}

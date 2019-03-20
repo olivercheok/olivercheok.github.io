@@ -3,6 +3,7 @@ title: The Maze
 category: "Project"
 cover: cover.jpg
 author: oliver cheok
+summary: The Maze is developed for Google VR Cardboard. It requires the user to navigate across a maze with the use of Waypoints
 ---
 #Abstract:  
 The Maze is developed for Google VR Cardboard. It requires the user to navigate across a maze with the use of Waypoints.

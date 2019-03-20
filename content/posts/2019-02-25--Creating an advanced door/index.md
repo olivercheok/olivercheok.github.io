@@ -3,6 +3,7 @@ title: Creating an advanced door using SteamVR Circular Drive
 category: "Tutorial"
 cover: cover.jpg
 author: oliver cheok
+summary: Creating a realistic door that only opens when the user turns the handle
 ---
 
 ###Here's what we are going to make

@@ -15,6 +15,7 @@ const query = `{
         }
         frontmatter {
           title
+          summary
         }
       }
     }
@@ -228,6 +229,7 @@ module.exports = {
               return allMarkdownRemark.edges.map(edge => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.excerpt,
+                  summary: edge.node.summary,
                   date: edge.node.fields.prefix,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
@@ -260,6 +262,7 @@ module.exports = {
                       }
                       frontmatter {
                         title
+                        summary
                       }
                     }
                   }

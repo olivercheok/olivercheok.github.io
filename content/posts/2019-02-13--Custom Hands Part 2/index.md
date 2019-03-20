@@ -3,6 +3,7 @@ title: Creating your own hand poses
 category: "Tutorial"
 cover: cover.jpg
 author: oliver cheok
+summary: Tutorial for creating different poses when interacting with objects
 ---
 
 ##Introduction

@@ -15,6 +15,7 @@ const Item = props => {
       fields: { slug, prefix },
       frontmatter: {
         title,
+        summary,
         category,
         author,
         cover: {
@@ -47,7 +48,7 @@ const Item = props => {
               </span>
             )}
           </p>
-          <p>{excerpt}</p>
+          <p>{summary}</p>
         </Link>
       </li>
 

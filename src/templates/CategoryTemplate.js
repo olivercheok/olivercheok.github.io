@@ -72,6 +72,7 @@ export const categoryQuery = graphql`
           timeToRead
           frontmatter {
             title
+            summary
             category
           }
         }

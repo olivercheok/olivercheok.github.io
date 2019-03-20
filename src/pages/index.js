@@ -87,6 +87,7 @@ export const query = graphql`
           }
           frontmatter {
             title
+            summary
             category
             author
             cover {

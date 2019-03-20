@@ -3,6 +3,7 @@ title: Performance Bounceback
 category: "Project"
 cover: cover.jpg
 author: oliver cheok
+summary: Performance Bounceback is initial a extremely unperformant game. Through the use of deep profiler and code optimisation, the game is now optimised to a consistent 90fps
 ---
 
 

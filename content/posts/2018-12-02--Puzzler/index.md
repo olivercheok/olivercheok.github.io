@@ -3,6 +3,7 @@ title: The Puzzler
 category: "Project"
 cover: cover.jpg
 author: oliver cheok
+summary: Puzzler is a Simon Says game. The player is to follow a sequence of lighting in order escape the dungeon. Made using Unity with Google VR SDK and built Cardboard app for Android
 ---
 
 
