@@ -2,7 +2,7 @@
 title: About
 ---
 
-![Profile](/media/horizontal(2).jpg)
+![Profile](./horizontal.jpg)
 
 I am a business consultant in a banking software company, with experience in database management. My background in electrical engineering provided me with problem solving skills which eventually led to software. Nowadays, I get to interact with different clients and expose myself to different cultures which I use as an opportunity to share our newest technologies. I like to challenge myself to share technical information to business users as it allows me to improve on my professional development.
 
