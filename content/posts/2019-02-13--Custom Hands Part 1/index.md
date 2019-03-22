@@ -1,9 +1,9 @@
 ---
-title: Creating your own hand models
+title: Creating custom hand models
 category: "Tutorial"
 cover: cover.jpg
 author: oliver cheok
-summary: A quick guide to using your own hand models and creating custom hand poses using SteamVR Skeleton Poser System
+summary: How to equip custom hand models using SteamVR
 ---
 
 ##Introduction
